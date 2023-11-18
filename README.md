@@ -227,11 +227,6 @@ two spaces
 - [Acme](https://github.com/deepmind/acme) - A Research Framework for (Distributed) Reinforcement Learning. 
 - [bagua](https://github.com/BaguaSys/bagua) - Bagua is a flexible and performant distributed training algorithm development framework.
 
-## Support this project
-![btc-clean-qrcode](https://user-images.githubusercontent.com/15725589/152709449-f6b7174b-2990-43f6-ac69-c8549fe7310c.png)
-![eth-clean-qrcode](https://user-images.githubusercontent.com/15725589/152709451-6c2691f9-dec7-4b60-9d20-9fdded828c8c.png)
-
-
 ## Contributors
 
 ### Code Contributors
@@ -239,25 +234,6 @@ two spaces
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
 <a href="https://github.com/zslucky/awesome-AI-books/graphs/contributors"><img src="https://opencollective.com/awesome-AI-books/contributors.svg?width=890&button=false" /></a>
 
-### Financial Contributors
+### Check Elagability for AI 1-hour Free Consultation
+https://www.linkedin.com/in/rami-hersonsky/
 
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/awesome-AI-books/contribute)]
-
-#### Individuals
-
-<a href="https://opencollective.com/awesome-AI-books"><img src="https://opencollective.com/awesome-AI-books/individuals.svg?width=890"></a>
-
-#### Organizations
-
-Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/awesome-AI-books/contribute)]
-
-<a href="https://opencollective.com/awesome-AI-books/organization/0/website"><img src="https://opencollective.com/awesome-AI-books/organization/0/avatar.svg"></a>
-<a href="https://opencollective.com/awesome-AI-books/organization/1/website"><img src="https://opencollective.com/awesome-AI-books/organization/1/avatar.svg"></a>
-<a href="https://opencollective.com/awesome-AI-books/organization/2/website"><img src="https://opencollective.com/awesome-AI-books/organization/2/avatar.svg"></a>
-<a href="https://opencollective.com/awesome-AI-books/organization/3/website"><img src="https://opencollective.com/awesome-AI-books/organization/3/avatar.svg"></a>
-<a href="https://opencollective.com/awesome-AI-books/organization/4/website"><img src="https://opencollective.com/awesome-AI-books/organization/4/avatar.svg"></a>
-<a href="https://opencollective.com/awesome-AI-books/organization/5/website"><img src="https://opencollective.com/awesome-AI-books/organization/5/avatar.svg"></a>
-<a href="https://opencollective.com/awesome-AI-books/organization/6/website"><img src="https://opencollective.com/awesome-AI-books/organization/6/avatar.svg"></a>
-<a href="https://opencollective.com/awesome-AI-books/organization/7/website"><img src="https://opencollective.com/awesome-AI-books/organization/7/avatar.svg"></a>
-<a href="https://opencollective.com/awesome-AI-books/organization/8/website"><img src="https://opencollective.com/awesome-AI-books/organization/8/avatar.svg"></a>
-<a href="https://opencollective.com/awesome-AI-books/organization/9/website"><img src="https://opencollective.com/awesome-AI-books/organization/9/avatar.svg"></a>
