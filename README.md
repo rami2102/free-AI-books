@@ -234,6 +234,6 @@ two spaces
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
 <a href="https://github.com/zslucky/awesome-AI-books/graphs/contributors"><img src="https://opencollective.com/awesome-AI-books/contributors.svg?width=890&button=false" /></a>
 
-### Check Elagability for AI 1-hour Free Consultation
+## Check Elagability for AI 1-hour Free Consultation
 https://www.linkedin.com/in/rami-hersonsky/
 
