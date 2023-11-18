@@ -10,33 +10,33 @@ Welcome for providing great books in this repo or tell me which great book you n
 
 Due to github Large file storage limition, all books pdf stored in **Yandex.Disk**.
 
-Some often used **Mathematic Symbols** can refer this [page](https://github.com/zslucky/awesome-AI-books/blob/master/math-symbols.md)
+Some often used **Mathematic Symbols** can refer this [page](https://github.com/rami2102/free-AI-books/blob/master/math-symbols.md)
 
 ## Content
-- [Organization with papers/researchs](https://github.com/zslucky/awesome-AI-books#organization-with-papersresearchs)
-- [Training ground](https://github.com/zslucky/awesome-AI-books#training-ground)
-- [Books](https://github.com/zslucky/awesome-AI-books#books)
-  - [Introductory theory and get start](https://github.com/zslucky/awesome-AI-books#introductory-theory-and-get-start)
-  - [Mathematics](https://github.com/zslucky/awesome-AI-books#mathematics)
-  - [Data mining](https://github.com/zslucky/awesome-AI-books#data-mining)
-  - [Deep Learning](https://github.com/zslucky/awesome-AI-books#deep-learning)
-  - [Philosophy](https://github.com/zslucky/awesome-AI-books#philosophy)
-- [Quantum with AI](https://github.com/zslucky/awesome-AI-books#quantum-with-ai)
-  - [Quantum Basic](https://github.com/zslucky/awesome-AI-books#quantum-basic)
-  - [Quantum AI](https://github.com/zslucky/awesome-AI-books#quantum-ai)
-  - [Quantum Related Framework](https://github.com/zslucky/awesome-AI-books#quantum-related-framework)
-- [Libs With Online Books](https://github.com/zslucky/awesome-AI-books#libs-with-online-books)
-  - [Reinforcement Learning](https://github.com/zslucky/awesome-AI-books#reinforcement-learning)
-  - [Feature Selection](https://github.com/zslucky/awesome-AI-books#feature-selection)
-  - [Machine Learning](https://github.com/zslucky/awesome-AI-books#machine-learning-1)
-  - [Deep Learning](https://github.com/zslucky/awesome-AI-books#deep-learning-1)
-  - [NLP](https://github.com/zslucky/awesome-AI-books#nlp)
-  - [CV](https://github.com/zslucky/awesome-AI-books#cv)
-  - [Meta Learning](https://github.com/zslucky/awesome-AI-books#meta-learning)
-  - [Transfer Learning](https://github.com/zslucky/awesome-AI-books#transfer-learning)
-  - [Auto ML](https://github.com/zslucky/awesome-AI-books#auto-ml)
-  - [Dimensionality Reduction](https://github.com/zslucky/awesome-AI-books#dimensionality-reduction)
-- [Distributed training](https://github.com/zslucky/awesome-AI-books#distributed-training)
+- [Organization with papers/researchs](https://github.com/rami2102/free-AI-books#organization-with-papersresearchs)
+- [Training ground](https://github.com/rami2102/free-AI-books#training-ground)
+- [Books](https://github.com/rami2102/free-AI-books#books)
+  - [Introductory theory and get start](https://github.com/rami2102/free-AI-books#introductory-theory-and-get-start)
+  - [Mathematics](https://github.com/rami2102/free-AI-books#mathematics)
+  - [Data mining](https://github.com/rami2102/free-AI-books#data-mining)
+  - [Deep Learning](https://github.com/rami2102/free-AI-books#deep-learning)
+  - [Philosophy](https://github.com/rami2102/free-AI-books#philosophy)
+- [Quantum with AI](https://github.com/rami2102/free-AI-books#quantum-with-ai)
+  - [Quantum Basic](https://github.com/rami2102/free-AI-books#quantum-basic)
+  - [Quantum AI](https://github.com/rami2102/free-AI-books#quantum-ai)
+  - [Quantum Related Framework](https://github.com/rami2102/free-AI-books#quantum-related-framework)
+- [Libs With Online Books](https://github.com/rami2102/free-AI-books#libs-with-online-books)
+  - [Reinforcement Learning](https://github.com/rami2102/free-AI-books#reinforcement-learning)
+  - [Feature Selection](https://github.com/rami2102/free-AI-books#feature-selection)
+  - [Machine Learning](https://github.com/rami2102/free-AI-books#machine-learning-1)
+  - [Deep Learning](https://github.com/rami2102/free-AI-books#deep-learning-1)
+  - [NLP](https://github.com/rami2102/free-AI-books#nlp)
+  - [CV](https://github.com/rami2102/free-AI-books#cv)
+  - [Meta Learning](https://github.com/rami2102/free-AI-books#meta-learning)
+  - [Transfer Learning](https://github.com/rami2102/free-AI-books#transfer-learning)
+  - [Auto ML](https://github.com/rami2102/free-AI-books#auto-ml)
+  - [Dimensionality Reduction](https://github.com/rami2102/free-AI-books#dimensionality-reduction)
+- [Distributed training](https://github.com/rami2102/free-AI-books#distributed-training)
 
 ## Organization with papers/researchs
 
@@ -105,12 +105,12 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [集体智慧编程](https://yadi.sk/i/0DW5reTrXQ6peQ) - Toby Segaran
 
 ### Machine Learning
-
+- [The Hundred Page Machine Learning Book](https://themlbook.com/wiki/doku.php) - Andriy Burkov
 - [Information Theory, Inference and Learning Algorithms](https://yadi.sk/i/JXYto8yE6PJO8Q) - David J C MacKay
 - [Machine Learning](https://yadi.sk/i/03Jg9WMzgD2YlA) - Tom M. Mitchell
 - [Pattern Recognition and Machine Learning](https://yadi.sk/i/8ffTCaMH0bM8uQ) - Christopher Bishop
 - [The Elements of Statistical Learning](https://yadi.sk/i/hfatiRyBCwfcWw) - Trevor Hastie
-- [Machine Learning for OpenCV](https://yadi.sk/i/_UdlHqwuR-Wdxg) - Michael Beyeler ([Source code here](https://github.com/zslucky/awesome-AI-books/tree/master/resources/Machine%20Learning%20for%20OpenCV))
+- [Machine Learning for OpenCV](https://yadi.sk/i/_UdlHqwuR-Wdxg) - Michael Beyeler ([Source code here](https://github.com/rami2102/free-AI-books/tree/master/resources/Machine%20Learning%20for%20OpenCV))
 - [机器学习](https://yadi.sk/i/vfoPTRRfgtEQKA) - 周志华
 - [机器学习 (原书Machine Learning)](https://yadi.sk/i/jTNv4kzG-lmlYQ) - Tom M. Mitchell
 - [统计学习方法](https://yadi.sk/i/R08dbDMOJb3KKw) - 李航
@@ -232,7 +232,7 @@ two spaces
 ### Code Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/zslucky/awesome-AI-books/graphs/contributors"><img src="https://opencollective.com/awesome-AI-books/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/rami2102/free-AI-books/graphs/contributors"><img src="https://opencollective.com/awesome-AI-books/contributors.svg?width=890&button=false" /></a>
 
 ## Check Elagability for AI 1-hour Free Consultation
 https://www.linkedin.com/in/rami-hersonsky/
